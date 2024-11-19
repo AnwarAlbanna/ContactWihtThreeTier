@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MyProjectKsaCom\\ConstantsAppPresentationLayer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B27EF0-6757-43E9-B0E2-ED96E9FE4EF8}|..\\ConstantBusinssLayer\\ConstantBusinssLayer.csproj|c:\\users\\user\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\myprojectksacom\\constantbusinsslayer\\businsslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19074A10-889D-4DAE-BF88-892BABE969F3}|ConstantsAppPresentationLayer.csproj|c:\\users\\user\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\myprojectksacom\\constantsapppresentationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19074A10-889D-4DAE-BF88-892BABE969F3}|ConstantsAppPresentationLayer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2489710-68FA-4EA7-81E8-029E05AC07EA}|..\\ContactsDataAccessLayer\\ContactsDataAccessLayer.csproj|c:\\users\\user\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\myprojectksacom\\contactsdataaccesslayer\\dataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MyProjectKsaCom\\ConstantsAppPresentationLayer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MyProjectKsaCom\\ConstantsAppPresentationLayer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:44:21.719Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BusinssLayer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MyProjectKsaCom\\ConstantBusinssLayer\\BusinssLayer.cs",
+              "RelativeDocumentMoniker": "..\\ConstantBusinssLayer\\BusinssLayer.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MyProjectKsaCom\\ConstantBusinssLayer\\BusinssLayer.cs",
+              "RelativeToolTip": "..\\ConstantBusinssLayer\\BusinssLayer.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:45:32.094Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataAccessLayer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MyProjectKsaCom\\ContactsDataAccessLayer\\DataAccessLayer.cs",
+              "RelativeDocumentMoniker": "..\\ContactsDataAccessLayer\\DataAccessLayer.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\MyProjectKsaCom\\ContactsDataAccessLayer\\DataAccessLayer.cs",
+              "RelativeToolTip": "..\\ContactsDataAccessLayer\\DataAccessLayer.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAvwEAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:41:42.336Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

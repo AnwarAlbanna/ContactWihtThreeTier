@@ -1,0 +1,9 @@
+C:\Users\User\OneDrive\سطح المكتب\MyProjectKsaCom\ConstantBusinssLayer\bin\Debug\ConstantBusinssLayer.dll
+C:\Users\User\OneDrive\سطح المكتب\MyProjectKsaCom\ConstantBusinssLayer\bin\Debug\ConstantBusinssLayer.pdb
+C:\Users\User\OneDrive\سطح المكتب\MyProjectKsaCom\ConstantBusinssLayer\obj\Debug\ConstantBusinssLayer.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\سطح المكتب\MyProjectKsaCom\ConstantBusinssLayer\obj\Debug\ConstantBusinssLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\سطح المكتب\MyProjectKsaCom\ConstantBusinssLayer\obj\Debug\ConstantBusinssLayer.dll
+C:\Users\User\OneDrive\سطح المكتب\MyProjectKsaCom\ConstantBusinssLayer\obj\Debug\ConstantBusinssLayer.pdb
+C:\Users\User\OneDrive\سطح المكتب\MyProjectKsaCom\ConstantBusinssLayer\bin\Debug\ContactsDataAccessLayer.dll
+C:\Users\User\OneDrive\سطح المكتب\MyProjectKsaCom\ConstantBusinssLayer\bin\Debug\ContactsDataAccessLayer.pdb
+C:\Users\User\OneDrive\سطح المكتب\MyProjectKsaCom\ConstantBusinssLayer\obj\Debug\Constant.1ACD0BE3.Up2Date

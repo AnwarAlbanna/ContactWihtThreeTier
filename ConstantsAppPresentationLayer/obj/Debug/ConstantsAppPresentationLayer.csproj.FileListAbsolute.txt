@@ -1,0 +1,12 @@
+C:\Users\User\OneDrive\سطح المكتب\MyProjectKsaCom\ConstantsAppPresentationLayer\bin\Debug\ConstantsAppPresentationLayer.exe.config
+C:\Users\User\OneDrive\سطح المكتب\MyProjectKsaCom\ConstantsAppPresentationLayer\bin\Debug\ConstantsAppPresentationLayer.exe
+C:\Users\User\OneDrive\سطح المكتب\MyProjectKsaCom\ConstantsAppPresentationLayer\bin\Debug\ConstantsAppPresentationLayer.pdb
+C:\Users\User\OneDrive\سطح المكتب\MyProjectKsaCom\ConstantsAppPresentationLayer\obj\Debug\ConstantsAppPresentationLayer.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\سطح المكتب\MyProjectKsaCom\ConstantsAppPresentationLayer\obj\Debug\ConstantsAppPresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\سطح المكتب\MyProjectKsaCom\ConstantsAppPresentationLayer\obj\Debug\ConstantsAppPresentationLayer.exe
+C:\Users\User\OneDrive\سطح المكتب\MyProjectKsaCom\ConstantsAppPresentationLayer\obj\Debug\ConstantsAppPresentationLayer.pdb
+C:\Users\User\OneDrive\سطح المكتب\MyProjectKsaCom\ConstantsAppPresentationLayer\bin\Debug\ConstantBusinssLayer.dll
+C:\Users\User\OneDrive\سطح المكتب\MyProjectKsaCom\ConstantsAppPresentationLayer\bin\Debug\ContactsDataAccessLayer.dll
+C:\Users\User\OneDrive\سطح المكتب\MyProjectKsaCom\ConstantsAppPresentationLayer\bin\Debug\ConstantBusinssLayer.pdb
+C:\Users\User\OneDrive\سطح المكتب\MyProjectKsaCom\ConstantsAppPresentationLayer\bin\Debug\ContactsDataAccessLayer.pdb
+C:\Users\User\OneDrive\سطح المكتب\MyProjectKsaCom\ConstantsAppPresentationLayer\obj\Debug\Constant.F2173D55.Up2Date

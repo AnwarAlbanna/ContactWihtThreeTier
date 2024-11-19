@@ -1,0 +1,6 @@
+C:\Users\User\OneDrive\سطح المكتب\MyProjectKsaCom\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.dll
+C:\Users\User\OneDrive\سطح المكتب\MyProjectKsaCom\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.pdb
+C:\Users\User\OneDrive\سطح المكتب\MyProjectKsaCom\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\سطح المكتب\MyProjectKsaCom\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\سطح المكتب\MyProjectKsaCom\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.dll
+C:\Users\User\OneDrive\سطح المكتب\MyProjectKsaCom\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.pdb
