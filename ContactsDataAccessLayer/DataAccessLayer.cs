@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Data;
 using System.Data.SqlClient;
+using System.Linq;
+using System.Security.Policy;
 namespace ContactsDataAccessLayer
 {
   
@@ -96,6 +98,79 @@ namespace ContactsDataAccessLayer
             finally { connection.Close(); }
 
             return AddNew;
+        }
+
+        static public bool DeleteContact(int ID)
+        {
+            int RowsAfficted = 0;
+            SqlConnection connection = new SqlConnection(clsConnectionSetting.ConnectionString);
+            string query = "Delete From Contacts where contactID=@ID";
+            SqlCommand command = new SqlCommand(query, connection);
+            command.Parameters.AddWithValue("@ID", ID);
+
+            try
+            {
+                connection.Open();
+                RowsAfficted = command.ExecuteNonQuery();
+
+
+
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Error :=  "+ex.Message);
+                RowsAfficted = 0;
+            }
+            finally { connection.Close(); }
+
+            return (RowsAfficted > 0);
+        }
+
+        static public DataTable GetAllContact()
+        {
+            DataTable dataTable = new DataTable();
+            SqlConnection connection =new SqlConnection(clsConnectionSetting.ConnectionString);
+            string query = "Select * from Contacts ;";
+            SqlCommand command =new SqlCommand(query, connection);
+            try
+            {
+                connection.Open();
+                SqlDataReader reader = command.ExecuteReader();
+                if(reader.HasRows)
+                {
+                    dataTable.Load(reader);
+                }
+            }
+            catch(Exception ex) 
+            {
+                Console.WriteLine (ex.Message);
+            }
+            finally
+            {
+                connection.Close();
+            }
+
+            return dataTable;
+        }
+
+        static public bool isContactExist(int ID)
+        {
+            bool isFound=false;
+            SqlConnection connection =new SqlConnection (clsConnectionSetting.ConnectionString);
+            string query = "select Found =1 From Contacts where ContactID = @ID";
+            SqlCommand cmd = new SqlCommand(query, connection);
+            cmd.Parameters.AddWithValue("ID", ID);
+            try
+            {
+                connection.Open();
+                SqlDataReader reader = cmd.ExecuteReader();
+                isFound = (reader.HasRows);
+                reader.Close();
+
+            }
+            catch (Exception ex) { }
+            finally { connection.Close(); }
+            return isFound;
         }
     }
 }

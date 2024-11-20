@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Data;
 using ContactsDataAccessLayer;
 
 namespace ConstantBusinssLayer
@@ -92,6 +93,18 @@ namespace ConstantBusinssLayer
             return false;
         }
 
+        static public bool Delete(int ID)
+        {
+            return DataAccessLayer.DeleteContact(ID);
+        }
 
+        static public DataTable GetAllContact() {
+            return DataAccessLayer.GetAllContact(); 
+        }
+
+        static public bool isContactExist(int ID)
+        {
+            return DataAccessLayer.isContactExist(ID);
+        }
     }
 }

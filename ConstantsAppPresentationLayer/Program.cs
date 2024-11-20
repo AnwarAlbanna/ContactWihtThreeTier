@@ -1,5 +1,6 @@
 ﻿using ConstantBusinssLayer;
 using System;
+using System.Data;
 
 
 namespace ConstantsAppPresentationLayer
@@ -48,12 +49,46 @@ namespace ConstantsAppPresentationLayer
 
             }
         }
+
+        static void testContactDelete(int ID)
+        {
+           if( clsContacts.Delete(ID))
+            {
+                Console.WriteLine("Deleted Successfuly.");
+
+            }
+           else
+            {
+                Console.WriteLine("Can't Deleted ");
+            }
+        }
+
+        static void testGetAllContact()
+        {
+            DataTable dataTable = new DataTable();
+            dataTable =clsContacts.GetAllContact();
+            foreach (DataRow row in dataTable.Rows)
+            {
+                Console.WriteLine($"{row["ContactID"]}, {row["FirstName"]} {row["LastName"]}");
+            }
+        }
+
+        static void isContactExist(int ID)
+        {
+            if (clsContacts.isContactExist(ID))
+                Console.WriteLine("the Contact is Found");
+            else
+                Console.WriteLine("the contact is not Found");
+        }
         
         static void Main(string[] args)
         {
 
-            //  testContactFind(1008);
-           // testContactAdd();
+             //testContactFind(10);
+            // testContactAdd();
+            // testContactDelete(1006);
+            //testGetAllContact();
+            //isContactExist(10);
             Console.ReadKey();
         }
     }
